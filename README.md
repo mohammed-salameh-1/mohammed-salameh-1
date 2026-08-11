@@ -1,5 +1,10 @@
-## Hi there 👋
+### 👋 Hi, I'm Mohammed
 
+- 🎓 3rd-year Mechatronics Engineering student @ Palestine Technical University – Kadoorie (PTUK)
+- 🤖 Currently completing a diploma in AI (Talal Abu-Ghazaleh University)
+- 🌱 Learning Python & exploring AI applications in engineering
+- 🎯 Working towards a Master's degree in AI/Management in Germany
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-salameh-3329b0234/)
 <!--
 **mohammed-salameh-1/mohammed-salameh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
