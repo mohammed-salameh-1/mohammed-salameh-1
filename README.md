@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Mohammed
 
-- 🎓 3rd-year Mechatronics Engineering student @ Palestine Technical University – Kadoorie (PTUK)
+- 🎓 4th-year Mechatronics Engineering student @ Palestine Technical University – Kadoorie (PTUK)
 - 🤖 Currently completing a diploma in AI (Talal Abu-Ghazaleh University)
 - 🌱 Learning Python & exploring AI applications in engineering
 - 🎯 Working towards a Master's degree in AI/Management in Germany
