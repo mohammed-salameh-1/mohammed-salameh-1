@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Salameh&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Mechatronics%20Engineer%20in%20the%20making%20%7C%20AI%20%26%20Robotics&descSize=16&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Salameh&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Mechatronics%20Engineering%20%7C%20AI%20and%20Robotics&descSize=16&descAlignY=55" width="100%" />
 
 <a href="https://www.linkedin.com/in/mohammed-salameh-3329b0234">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
