@@ -12,7 +12,7 @@ Fourth-year **Mechatronics Engineering** student with a strong passion for artif
 
 Mechatronics taught me to think about a system end to end — sensing, decision, action. Artificial intelligence is where I want to spend that habit: on the decision layer, where a machine has to work out what it is actually looking at before it does anything about it.
 
-My goal is a master's degree in **artificial intelligence and robotics in Germany**. 🇩🇪
+My goal is a master's degree in **artificial intelligence and robotics in Germany**.
 
 ---
 
